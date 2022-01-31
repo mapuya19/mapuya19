@@ -4,8 +4,9 @@ I'm a student at NYU studying Computer Science and minoring in Game Design.
 
 - 🔭 I'm currently working on small web dev projects
 - 🌱 I'm currently learning Algorithmic Problem Solving
-- 😄 Pronouns: he/they
+- 💬 Ask me about politics, anime, gaming
 - 📫 How to reach me: mja610@nyu.edu
+- 😄 Pronouns: he/they
 - ⚡ Fun fact: raised in Little Rock, Arkansas
 
 [![mapuya19's GitHub stats](https://github-readme-stats.vercel.app/api?username=mapuya19&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
