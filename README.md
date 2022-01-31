@@ -10,7 +10,7 @@ I'm a student at NYU studying Computer Science and minoring in Game Design.
 
 [![mapuya19's GitHub stats](https://github-readme-stats.vercel.app/api?username=mapuya19)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mapuya19&layout=compact&hide=yacc)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mapuya19&layout=compact&hide=yacc,Game%20Maker%20Language,C)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
