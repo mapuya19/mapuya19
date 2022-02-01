@@ -9,9 +9,17 @@ I'm a student at NYU studying Computer Science and minoring in Game Design.
 - 😄 Pronouns: he/they
 - ⚡ Fun fact: raised in Little Rock, Arkansas
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mapuya19&show_icons=true&hide=stars" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mapuya19&layout=compact&hide=yacc,Game%20Maker%20Language,C" />
+</a>
+
+<!-- 
 [![mapuya19's GitHub stats](https://github-readme-stats.vercel.app/api?username=mapuya19&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mapuya19&layout=compact&hide=yacc,Game%20Maker%20Language,C)](https://github.com/anuraghazra/github-readme-stats)
-
+ -->
 
 <!--
 **mapuya19/mapuya19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
