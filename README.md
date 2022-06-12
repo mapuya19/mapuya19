@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/mapuya19/mapuya19/main/header.png">
 
-I'm a student at NYU studying Computer Science and minoring in Game Design.
+I'm a student at NYU studying Computer Science + minoring in Game Design and Web Programming & Applications.
 
 - 🔭 I'm currently working on small web dev projects
 - 🌱 I'm currently learning Algorithmic Problem Solving
