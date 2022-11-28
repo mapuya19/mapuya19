@@ -5,7 +5,7 @@ I'm a student at NYU studying Computer Science + minoring in Game Design and Web
 - 🔭 I'm currently working on small web dev projects
 - 🌱 I'm currently learning Algorithmic Problem Solving
 - 💬 Ask me about politics, anime, gaming
-- 📫 How to reach me: mja610@nyu.edu
+- 📫 How to reach me: apuya@nyu.edu
 - 😄 Pronouns: he/they
 - ⚡ Fun fact: raised in Little Rock, Arkansas
 
