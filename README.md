@@ -1,13 +1,11 @@
 <img src="https://raw.githubusercontent.com/mapuya19/mapuya19/main/header.png">
 
-I'm a student at NYU studying Computer Science + minoring in Game Design and Web Programming & Applications.
+I recently graduated from New York University with a bachelor's degree in Computer Science and a minor in Game Design and Web Programming & Applications.
 
-- 🔭 I'm currently working on small web dev projects
-- 🌱 I'm currently learning Algorithmic Problem Solving
-- 💬 Ask me about politics, anime, gaming
-- 📫 How to reach me: apuya@nyu.edu
 - 😄 Pronouns: he/they
-- ⚡ Fun fact: raised in Little Rock, Arkansas
+- 👨‍💻 I am a full-stack engineer with experience in both web and mobile apps
+- 🔭 I'm currently working on small web dev projects
+- 📫 How to reach me: apuya@nyu.edu
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mapuya19&show_icons=true&hide=stars" />
