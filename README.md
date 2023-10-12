@@ -5,7 +5,7 @@ I recently graduated from New York University with a bachelor's degree in Comput
 - 😄 Pronouns: he/they
 - 👨‍💻 I am a full-stack engineer with experience in both web and mobile apps
 - 🔭 I'm currently working on small web dev projects
-- 📫 How to reach me: apuya@nyu.edu
+- 📫 How to reach me: hello@matthewapuya.com
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mapuya19&show_icons=true&hide=stars" />
