@@ -4,7 +4,6 @@ I recently graduated from New York University with a bachelor's degree in Comput
 
 - 😄 Pronouns: he/they
 - 👨‍💻 I am a full-stack engineer with experience in both web and mobile apps
-- 🔭 I'm currently working on small web dev projects
 - 📫 How to reach me: hello@matthewapuya.com
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
