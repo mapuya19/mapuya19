@@ -6,12 +6,14 @@ I recently graduated from New York University with a bachelor's degree in Comput
 - 👨‍💻 I am a full-stack engineer with experience in both web and mobile apps
 - 📫 How to reach me: hello@matthewapuya.com
 
+<!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mapuya19&show_icons=true&hide=stars" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mapuya19&layout=compact&hide=yacc,Game%20Maker%20Language,C" />
 </a>
+ -->
 
 <!-- 
 [![mapuya19's GitHub stats](https://github-readme-stats.vercel.app/api?username=mapuya19&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
