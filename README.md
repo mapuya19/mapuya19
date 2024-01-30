@@ -3,7 +3,7 @@
 I recently graduated from New York University with a bachelor's degree in Computer Science and a minor in Game Design and Web Programming & Applications.
 
 - 😄 Pronouns: he/they
-- 👨‍💻 Currently DevOps @ fintech, prev. product & swe
+- 👨‍💻 Currently devops @ fintech, prev. product & swe
 - 📫 How to reach me: hello@matthewapuya.com
 
 <!--
